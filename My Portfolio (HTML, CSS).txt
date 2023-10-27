@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="sty.css">
+    <title>My Portfolio</title>
+    
+</head>
+<body>
+    <header>
+       <a href="tap.html"> <img src="download1.jpg" alt="My Logo" class="logo"></a>
+        <nav>
+            <ul>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="https://github.com/BasavarajMalagi/projects">Projects</a></li>
+                <li><a href="image.html">Certificates</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    
+    
+    <section id="contact">
+        <h1></h1>
+        
+    </section>
+    
+    <main>
+        <h1>WELCOME TO MY PORTFOLIO</h1>
+    </main>
+    
+    <footer>
+       <button> <h3><a href="https://www.linkedin.com/in/basavaraj-malagi-2a64a7243">Get Started</a></h3></button>
+    </footer>
+</body>
+</html>
